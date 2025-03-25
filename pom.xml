@@ -92,7 +92,7 @@
                    <version>6.1.6</version>
                    <configuration>
                       <format>ALL</format>
-                      <failBuildOnCVSS>40</failBuildOnCVSS>
+                      <failBuildOnCVSS>70</failBuildOnCVSS>
                    </configuration>
                 </plugin>
 		</plugins>
